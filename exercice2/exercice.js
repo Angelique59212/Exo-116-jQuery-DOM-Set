@@ -1,0 +1,1 @@
+let para = $("p").css('font-weight','bold').html("Hello World!");
